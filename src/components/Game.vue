@@ -145,7 +145,7 @@ export default {
 }
 .health {
   position: relative;
-  z-index: 99999;
+  z-index: 99999; 
   position: absolute;
   top: 50%;
   left: 50%;
